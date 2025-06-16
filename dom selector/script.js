@@ -27,3 +27,5 @@ h1.style.fontSize = "50px";
 const p1 = document.getElementsByClassName("p1")[0];
 p1.style.fontFamily = "Sans";
 p1.innerHTML = "Ini Diubah dari JS";
+
+
