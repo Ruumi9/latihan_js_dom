@@ -1,0 +1,7 @@
+ada method
+parentNode
+parentElement
+nextSibling
+nextElementSibling
+previousSibling
+previousElementSibling
