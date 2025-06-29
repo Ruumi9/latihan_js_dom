@@ -1,0 +1,11 @@
+ada method
+parentNode
+parentElement
+nextSibling
+nextElementSibling
+previousSibling
+previousElementSibling
+
+
+preventDefault
+digunakan untuk mengehntikan aksi default dari suatu element. seperti tag a yang aksi deaultnya membuka link baru / merefresh halaman
